@@ -3,7 +3,7 @@
 
 #### YOLO: Real-Time Object Detection
 
-[![This Resource(README.md) Taken From darknet](https://github.com/pjreddie/darknet/wiki/YOLO%3A-Real-Time-Object-Detection/)]
+[![This Resource(README.md) Taken From darknet Wiki](https://github.com/pjreddie/darknet/wiki/YOLO%3A-Real-Time-Object-Detection/)]
 
 ![YOLO Watches Nature](http://img.youtube.com/vi/K9a6mGNmhbc/hqdefault.jpg)
 You only look once (YOLO) is a system for detecting objects on the [Pascal VOC](http://host.robots.ox.ac.uk:8080/pascal/VOC/) 2012 dataset. It can detect the 20 Pascal object classes:
